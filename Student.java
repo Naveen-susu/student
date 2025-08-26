@@ -10,6 +10,9 @@ public class Student {
         System.out.println("==========================");
         System.out.println("WELCOME TO JENKINS");
         System.out.println("Good Mornig!!!!!!");
+        System.out.println("Good Mornig!!!!!!");
+        System.out.println("Good Mornig!!!!!!");
+        System.out.println("Good Mornig!!!!!!");
         System.out.println("POLL SCM TASK ");
         System.out.println("WEBHOOK ");
     }
